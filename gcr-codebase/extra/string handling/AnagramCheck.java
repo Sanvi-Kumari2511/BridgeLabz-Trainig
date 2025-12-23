@@ -1,57 +1,46 @@
 import java.util.Scanner;
 
-public class AnagramCheck {
+public class CompareStrings {
 
-    //Creating a method to check that two strins are anagram or not
-    public static boolean isAnagram(String str1, String str2) {
+    //Creating a method to compare two strings lexicographically
+    public static int compare(String str1, String str2) {
+        int length1 = str1.length();
+        int length2 = str2.length();
+        int minLength = Math.min(length1, length2);
 
-        //Removing spaces and converting to lowercase
-        str1 = str1.replace(" ", "").toLowerCase();
-        str2 = str2.replace(" ", "").toLowerCase();
+        for (int i = 0; i < minLength; i++) {
+            char ch1 = str1.charAt(i);
+            char ch2 = str2.charAt(i);
 
-        //Checking conditions for the anagram
-        if (str1.length() != str2.length()) {
-            return false;
-        }
-
-        int[] frequency = new int[256]; 
-		
-        //Counting the characters of first string
-        for (int i = 0; i < str1.length(); i++) {
-            frequency[str1.charAt(i)]++;
-        }
-
-        //Subtracting characters of second string
-        for (int i = 0; i < str2.length(); i++) {
-            frequency[str2.charAt(i)]--;
-        }
-
-        //Checking that if all the counts are zero
-        for (int i = 0; i < frequency.length; i++) {
-            if (frequency[i] != 0) {
-                return false;
+            if (ch1 != ch2) {
+                return ch1 - ch2;  
             }
         }
 
-        return true;
+        return length1 - length2;
     }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         //Taking input from user
-        System.out.print("Enter first string: ");
+        System.out.print("Enter string 1: ");
         String str1 = sc.nextLine();
 
-        System.out.print("Enter second string: ");
+        System.out.print("Enter string 2: ");
         String str2 = sc.nextLine();
 
-        //Checking the strings are anagram or not
-        if (isAnagram(str1, str2)) {
-            System.out.println("Both the strings are Anagrams");
+        int result = compare(str1, str2);
+
+        //Displaying the results
+        if (result == 0) {
+            System.out.println("Both strings are equal.");
         } 
+		else if (result < 0) {
+            System.out.println("String 1 comes before");
+        }
 		else {
-            System.out.println("Both the strings are not Anagrams");
+            System.out.println("String 1 comes later");
         }
     }
 }

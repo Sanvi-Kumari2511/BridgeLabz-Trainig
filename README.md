@@ -91,5 +91,25 @@ On Day 4, I worked on understanding how decision-making and looping work in Java
 👉 [Day 4 – Java Control Flows](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
+## 📅 Day 5 – Working with Arrays in Java  
+**Date:** 19-Dec-2025
+
+This day focused on understanding arrays and how they are used to store and manipulate data.
+
+### ✅ Concepts Covered
+- Declaration and usage of arrays  
+- Iterating arrays using loops  
+- Working with multi-dimensional arrays  
+
+### 🧪 Practice
+- Solved array-based problems  
+- Followed clean coding practices  
+- Updated the repository with completed work  
+
+### 🔗 Reference
+👉 [Day 5 – Java Arrays](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/arrays)
+
+---
+
 
 

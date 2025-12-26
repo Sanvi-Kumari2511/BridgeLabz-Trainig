@@ -110,6 +110,22 @@ This day focused on understanding arrays and how they are used to store and mani
 👉 [Day 5 – Java Arrays](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
+## 📅 Day 6 – Java Methods  
+**Date:** 20-Dec-2025
 
+The final day of Week 1 was focused on learning methods and their importance in writing reusable code.
+
+### ✅ Concepts Covered
+- Creating and using user-defined methods  
+- Passing arguments and returning values  
+- Understanding recursion  
+- Using static and built-in methods  
+
+### 🧪 Practice
+- Implemented problems using Java methods  
+- Committed and pushed all changes to GitHub  
+
+### 🔗 Reference
+👉 [Day 6 – Java Methods](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/methods)
 
 

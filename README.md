@@ -40,3 +40,17 @@ Copy code
 ✔ Successfully pushed files to the remote repository.
 
 ---
+## 📅 Day 2 – Git Workflow and Basic Java Programs  
+**Date:** 16-Dec-2025
+
+The second day was mainly focused on practicing Git operations and writing simple Java programs to understand the language structure.
+
+### ✅ Activities
+- Practiced committing changes and managing versions using Git  
+- Implemented basic Java programs to understand syntax and flow  
+- Pushed the updated code to GitHub  
+
+### 🔗 Reference
+👉 Day 2 – Basic Java Programs
+
+---

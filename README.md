@@ -54,3 +54,22 @@ The second day was mainly focused on practicing Git operations and writing simpl
 👉 Day 2 – Basic Java Programs
 
 ---
+## 📅 Day 3 – Java Programming Elements  
+**Date:** 17-Dec-2025
+
+This day was dedicated to learning the core elements that form the base of Java programming.
+
+### ✅ Concepts Covered
+- Variables and different data types  
+- Operators used in Java  
+- Handling input and output  
+
+### 🧪 Practice
+- Solved multiple problems based on programming basics  
+- Committed and pushed the solutions  
+
+### 🔗 Reference
+👉 Day 3 – Programming Elements
+
+---
+

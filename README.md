@@ -170,3 +170,26 @@ Day 8 was used to cover **additional Java concepts** and revise previously learn
 ### 🔗 Reference
 👉 [Day 8 – Extras](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/extra)
 
+---
+
+## 📅 Day 9 – Scenario Based Questions  
+**Date:** 23-Dec-2025
+
+Day 9 focused on solving **scenario-based problems** to apply Core Java concepts in real-world situations. These exercises helped improve logical thinking and problem-solving skills.
+
+### ✅ Concepts Applied
+- Applying Java fundamentals to real-life scenarios  
+- Using conditional statements and loops effectively  
+- Working with arrays, methods, and strings in practical problems  
+- Writing structured and maintainable code  
+
+### 🧪 Practice Work
+- Solved multiple scenario-based questions  
+- Implemented logic based on given problem statements  
+- Optimized solutions for better readability and performance  
+- Committed and pushed all completed solutions to the repository  
+
+### 🔗 Reference
+👉 [Day 9 – Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/scenario-based-codebase)
+
+

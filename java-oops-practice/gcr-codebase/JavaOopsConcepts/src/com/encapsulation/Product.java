@@ -2,7 +2,6 @@ package com.encapsulation;
 
     abstract class Product {
 	
-
 	    //Encapsulated fields
 	    private int productId;
 	    private String name;

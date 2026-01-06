@@ -293,4 +293,31 @@ Day 2 of Week 3 focused on understanding **Object-Oriented Design principles** a
 👉 [Object-Oriented Design Principles](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/designprinciples)
 👉 [Scenario-Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/scenario-based-codebase/practice4)
 
+---
+
+## 📅 Week 3 – Day 3  
+### Inheritance & Scenario Based Questions  
+**Date:** 31-Dec-2025
+
+Day 3 of Week 3 focused on understanding **Inheritance in Java** and applying it through scenario-based problem solving. The session emphasized object-oriented concepts along with logical reasoning and clean coding practices.
+
+### ✅ Topics Covered
+- Inheritance and its role in object-oriented programming  
+- Code reusability using parent and child classes  
+- Control flow using loops and conditional statements  
+- switch-case based decision making  
+- Use of break and continue statements  
+- Handling user-driven program execution  
+
+### 🧪 Practice Summary
+- Implemented inheritance concepts through practical scenarios  
+- Solved scenario-based problems using Core Java concepts  
+- Strengthened logical thinking and flow control  
+- Followed proper naming conventions and code structure  
+- Committed and pushed all updates to the GitHub repository  
+
+### 🔗 Reference
+👉 [Inheritance in Java](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/scenario-based-codebase/practice5)
 

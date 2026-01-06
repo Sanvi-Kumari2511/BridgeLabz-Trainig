@@ -72,3 +72,21 @@ This day was dedicated to learning the core elements that form the base of Java 
 ### 🔗 Reference
 👉[ Day 3 – Programming Elements](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/programming-elements)
 
+---
+## 📅 Day 4 – Control Flow in Java  
+**Date:** 18-Dec-2025
+
+On Day 4, I worked on understanding how decision-making and looping work in Java.
+
+### ✅ Concepts Covered
+- Boolean values and logical expressions  
+- Conditional statements such as if-else  
+- Looping constructs like for and while  
+- Usage of switch, break, and continue  
+
+### 🧪 Practice
+- Implemented programs based on control flow logic  
+- Pushed completed solutions to the repository  
+
+### 🔗 Reference
+👉 [Day 4 – Java Control Flows](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/control-flows)

@@ -17,7 +17,7 @@ public class PersonalizedLearningPlatform {
 	        String[] questions2 = {"Q1: 5*5?", "Q2: Color of sky?"};
 	        String[] answers2 = {"25", "Blue"};
 
-	        Quiz quiz1 = new Quiz("Math & Geography", questions1, answers1);
+	        Quiz quiz1 = new Quiz("Maths & Geography", questions1, answers1);
 	        Quiz quiz2 = new Quiz("Science & General Knowledge", questions2, answers2);
 
 	        //Learner takes quizzes

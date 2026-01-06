@@ -218,5 +218,28 @@ Day 3 of Week 2 focused on solving **Core Java problem statements** along with *
 👉 [Core Java Problems](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
 👉 [Scenario-Based Problems](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/scenario-based-codebase/practice2)
 
+---
+
+## 📅 Week 2 – Day 4  
+### Java Constructors, Instance vs Class Variables & Access Modifiers (Level 1 Lab Practice)  
+**Date:** 27-Dec-2025
+
+Day 4 of Week 2 was focused on the **submission and practice of Level 1 lab exercises** related to Java constructors, variable types, and access control concepts.
+
+### ✅ Topics Covered
+- Understanding and implementing Java constructors  
+- Difference between instance variables and class (static) variables  
+- Overview and usage of access modifiers  
+- Applying access control in Java programs  
+
+### 🧪 Lab Practice & Submission
+- Completed Level 1 lab practice programs  
+- Implemented programs based on constructors and variables  
+- Applied access modifiers to control data visibility  
+- Successfully submitted all lab practice solutions  
+
+### 🔗 Reference
+👉 [Java Constructors & Access Modifiers – Level 1](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
+
 
 

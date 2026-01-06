@@ -241,5 +241,31 @@ Day 4 of Week 2 was focused on the **submission and practice of Level 1 lab exer
 ### 🔗 Reference
 👉 [Java Constructors & Access Modifiers – Level 1](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
 
+---
+
+# 📅 Week 3: Core Java Advanced Concepts
+
+## 📅 Day 1  
+### `this`, `static`, `final` Keywords & `instanceof` Operator (Level 1 Lab Practice)  
+**Date:** 29-Dec-2025
+
+Day 1 of Week 3 focused on the **submission and practice of Level 1 lab exercises** related to important Java keywords and operators, along with solving **scenario-based problems** to apply these concepts practically.
+
+### ✅ Topics Covered
+- Practical usage of the `this` keyword  
+- Understanding the role of `static` and `final` keywords  
+- Working with the `instanceof` operator  
+- Applying these concepts in real Java programs  
+
+### 🧪 Lab Practice & Scenario Questions
+- Completed and submitted Level 1 lab practice programs  
+- Implemented programs using `this`, `static`, and `final`  
+- Solved **5 scenario-based questions**  
+- Reviewed logic and improved code structure  
+
+### 🔗 Reference
+👉 [Java Keywords & `instanceof` – Level 1](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)  
+👉 [Scenario-Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/scenario-based-codebase/practice3)
+
 
 

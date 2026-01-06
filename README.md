@@ -151,3 +151,28 @@ Day 7 was focused on understanding **Strings in Java** and learning how string d
 
 ### 🔗 Reference
 👉 [Day 7 – Strings](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/string)
+
+---
+
+# 📅 Week 2: Advanced Core Java Practice
+
+## 📅 Day 1 – Extras  
+**Date:** 22-Dec-2025
+
+Day 1 of Week 2 focused on revising previously learned Java concepts and practicing additional problems to strengthen the overall understanding of Core Java.
+
+### ✅ Concepts Covered
+- Revision of Core Java fundamentals  
+- Additional practice on arrays, methods, and strings  
+- Improving code structure and readability  
+- Debugging and fixing common logical errors  
+
+### 🧪 Practice Work
+- Solved extra practice problems from multiple topics  
+- Refactored earlier programs for better clarity  
+- Improved logic and performance of existing code  
+- Committed and pushed all updated solutions to the repository  
+
+### 🔗 Reference
+👉 [Week 2 – Day 1](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/extra)
+

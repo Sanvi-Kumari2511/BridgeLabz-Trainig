@@ -269,3 +269,29 @@ Day 1 of Week 3 focused on the **submission and practice of Level 1 lab exercise
 ### 🔗 Reference
 👉 [Java Keywords & `instanceof` – Level 1](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)  
 👉 [Scenario-Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/scenario-based-codebase/practice3)
+
+---
+
+## 📅 Week 3 – Day 2  
+### Object-Oriented Design Principles & Core Java Practice  
+**Date:** 30-Dec-2025
+
+Day 2 of Week 3 focused on understanding **Object-Oriented Design principles** and strengthening Core Java concepts through hands-on practice. The main emphasis was on applying logic correctly and writing clean, well-structured Java code.
+
+### ✅ Topics Covered
+- Object-Oriented Design principles  
+- Use of arrays and loops  
+- Conditional statements and control flow  
+- Working with switch-case logic  
+- Using different types of loops effectively  
+- Writing modular and readable Java programs  
+
+### 🧪 Practice Summary
+- Practiced Java programs based on the above concepts  
+- Focused on logic building and code clarity  
+- Followed proper naming conventions and structured coding style  
+- Committed and pushed all completed work to the repository  
+
+### 🔗 Reference
+👉 [Object-Oriented Design Principles](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/designprinciples)
+👉 [Scenario-Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/scenario-based-codebase/practice4)

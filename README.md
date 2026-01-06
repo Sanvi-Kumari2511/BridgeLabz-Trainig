@@ -196,3 +196,27 @@ Day 2 of Week 2 focused on improving problem-solving skills through **LeetCode p
 ### 🔗 Reference 
 👉 [LeetCode Practice](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/leet-code-codebase/practice1)  
 👉 [Scenario-Based Problems](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/scenario-based-codebase/practice1)
+
+---
+
+## 📅 Week 2 – Day 3  
+### Core Java Problem Statements & Scenario-Based Problem Statements  
+**Date:** 26-Dec-2025
+
+Day 3 of Week 2 focused on solving **Core Java problem statements** along with **scenario-based problems**. This helped in strengthening conceptual understanding as well as applying logic to real-world situations.
+
+### ✅ Topics Covered
+- Solving Core Java problems based on fundamentals  
+- Working on scenario-based problem statements  
+- Applying conditions, loops, arrays, methods, and strings  
+- Improving logical thinking and problem-solving approach  
+
+### 🧪 Practice Work
+- Solved multiple Core Java practice problems  
+- Solved scenario-based problem statements separately  
+- Converted problem requirements into working Java programs  
+- Committed and pushed all completed solutions to the repository  
+
+### 🔗 Code Links
+👉 [Core Java Problems](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)
+👉 [Scenario-Based Problems](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/scenario-based-codebase/practice2)

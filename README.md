@@ -376,3 +376,32 @@ This session focused on learning **LinkedList as a core data structure in Java**
 ### 🔗 Reference
 👉 [Java LinkedList](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaPractice/src/com)  
 👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)
+
+---
+## 📅 Week 3 – Day 6  
+### Data Structures – Stack, Queue, HashMap & Hashing Function  
+**Date:** 03-Jan-2026
+
+This session focused on learning **Stack, Queue, HashMap, and Hashing Functions** in Java, along with understanding their internal workings, operations, and applications. The emphasis was on clean implementation, practical usage, and solving scenario-based exercises.
+
+### ✅ Topics Covered
+- Introduction to **Stack & Queue** and their operations (`push`, `pop`, `peek`, `isEmpty`, `enqueue`, `dequeue`)  
+- Understanding **HashMap** for key-value storage and common operations (`put`, `get`, `remove`, `containsKey`)  
+- Concept of **Hashing Functions** and collision handling (Chaining, Open Addressing)  
+- Differences between linear and dynamic data structures  
+- Applying **scenario-based questions** in implementation  
+
+### 🧪 Practice Summary
+- Implemented Stack & Queue operations using Java  
+- Practiced HashMap usage with real-time examples  
+- Explored hashing functions and handled collisions  
+- Improved understanding of data retrieval and storage efficiency  
+- Followed proper coding standards and modular approach  
+- Submitted all work successfully to the repository  
+
+### 🔗 Reference
+👉 [Stack & Queue concepts](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaPractice/src/com/stackandqueue)
+
+👉 [HashMap and Hashing Function concepts](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaPractice/src/com/hashmapsandhashfunctions)
+
+👉 [Scenario-Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)  

@@ -176,14 +176,12 @@ Day 1 of Week 2 focused on revising previously learned Java concepts and practic
 ---
 
 ## 📅 Week 2 – Day 2  
-### LeetCode Practice, Scenario-Based Problems & OOP Basics  
-**Date:** 26-Dec-2025
+### LeetCode Practice & Scenario-Based Problems  
+**Date:** 24-Dec-2025
 
-Day 2 of Week 2 focused on improving problem-solving skills through **LeetCode practice**, working on **scenario-based questions**, and understanding the basics of **Object-Oriented Programming (OOP)** in Java.
+Day 2 of Week 2 focused on improving problem-solving skills through **LeetCode practice**, working on **scenario-based questions** in Java.
 
 ### ✅ Topics and Activities
-- Studied procedural programming and object-oriented programming paradigms  
-- Learned the fundamentals of classes and objects  
 - Practiced LeetCode problems related to arrays and strings  
 - Solved scenario-based questions to apply logical concepts  
 
@@ -192,8 +190,7 @@ Day 2 of Week 2 focused on improving problem-solving skills through **LeetCode p
 - Solved **scenario-based problems**  
 - Committed and pushed all solutions to the repository  
 
-### 🔗 Reference
-👉 [Classes and Objects](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops)  
+### 🔗 Reference 
 👉 [LeetCode Practice](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/leet-code-codebase/practice1)  
 👉 [Scenario-Based Problems](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/scenario-based-codebase/practice1)
 

@@ -347,3 +347,29 @@ This day focused on advanced **Object-Oriented Programming concepts in Java**, i
 👉 [Java OOP Concepts](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
 
 👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/day1Practice)
+
+---
+
+## 📅 Week 3 – Day 5  
+### Data Structures – LinkedList & Java OOP Practice  
+**Date:** 02-Jan-2026
+
+This session focused on learning **LinkedList as a core data structure in Java** along with reinforcing Object-Oriented Programming concepts through scenario-based practice. The emphasis was on understanding internal working, usage, and clean implementation.
+
+### ✅ Topics Covered
+- Introduction to LinkedList in Java  
+- Operations on LinkedList (add, remove, traverse)  
+- Differences between ArrayList and LinkedList  
+- Applying Java OOP concepts in practical scenarios  
+- Writing structured and readable code  
+
+### 🧪 Practice Summary
+- Implemented LinkedList operations using Java  
+- Practiced OOP concepts through scenario-based exercises  
+- Improved understanding of dynamic data structures  
+- Followed proper coding standards and modular approach  
+- Submitted all work successfully to the repository  
+
+### 🔗 Reference
+👉 [Java LinkedList](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaPractice/src/com)  
+👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)

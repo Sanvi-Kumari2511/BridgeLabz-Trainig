@@ -321,3 +321,29 @@ Day 3 of Week 3 focused on understanding **Inheritance in Java** and applying it
 
 👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/scenario-based-codebase/practice5)
 
+---
+
+## 📅 Week 3 – Day 4  
+### Encapsulation, Polymorphism & Abstraction Concepts  
+**Date:** 01-Jan-2026
+
+This day focused on advanced **Object-Oriented Programming concepts in Java**, including Encapsulation, Polymorphism, Interfaces, and Abstract Classes. The session emphasized understanding design principles and applying them through scenario-based practice.
+
+### ✅ Topics Covered
+- Encapsulation and data hiding techniques  
+- Polymorphism and method overriding  
+- Interfaces and their implementation  
+- Abstract classes and abstract methods  
+- Applying OOP concepts in real-world scenarios  
+
+### 🧪 Practice Summary
+- Implemented core OOP concepts through hands-on practice  
+- Solved scenario-based exercises using Java OOP principles  
+- Improved understanding of object interaction and abstraction  
+- Followed clean coding standards and modular design  
+- Submitted all implementations to the repository  
+
+### 🔗 Reference
+👉 [Java OOP Concepts](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/day1Practice)

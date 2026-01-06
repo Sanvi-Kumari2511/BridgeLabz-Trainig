@@ -128,3 +128,26 @@ The final day of Week 1 was focused on learning methods and their importance in 
 
 ### 🔗 Reference
 👉 [Day 6 – Java Methods](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/methods)
+
+---
+
+## 📅 Day 7 – Strings in Java  
+**Date:** 21-Dec-2025
+
+Day 7 was focused on understanding **Strings in Java** and learning how string data is stored, manipulated, and processed in programs.
+
+### ✅ Concepts Covered
+- Introduction to String class  
+- Creating strings using literals and `new` keyword  
+- Common String methods (`length`, `charAt`, `substring`, `equals`, etc.)  
+- String immutability  
+- String comparison  
+
+### 🧪 Practice Work
+- Solved multiple problems based on string operations  
+- Practiced using built-in String methods  
+- Implemented programs for string manipulation  
+- Committed and pushed all string-related solutions to the repository  
+
+### 🔗 Reference
+👉 [Day 7 – Strings](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/string)

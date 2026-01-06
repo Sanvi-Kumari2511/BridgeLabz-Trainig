@@ -172,6 +172,6 @@ Day 1 of Week 2 focused on revising previously learned Java concepts and practic
 - Committed and pushed all updated solutions to the repository  
 
 ### 🔗 Reference
-👉 [Week 2 – Day 1] (Extras)(https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/extra)
+👉 [Week 2 – Day 1](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/extra)
 ---
 

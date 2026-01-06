@@ -150,46 +150,28 @@ Day 7 was focused on understanding **Strings in Java** and learning how string d
 ### 🔗 Reference
 👉 [Day 7 – Strings](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/string)
 
-## 📅 Day 8 – Extras  
-**Date:** 22-Dec-2025
-
-Day 8 was used to cover **additional Java concepts** and revise previously learned topics. This day helped strengthen understanding through extra practice and problem-solving.
-
-### ✅ Concepts Covered
-- Revision of core Java topics  
-- Additional practice on loops, arrays, methods, and strings  
-- Writing optimized and readable code  
-- Debugging common logical and syntax errors  
-
-### 🧪 Practice Work
-- Solved extra practice problems across multiple topics  
-- Improved code structure and readability  
-- Corrected mistakes from earlier programs  
-- Committed and pushed updated solutions to the repository  
-
-### 🔗 Reference
-👉 [Day 8 – Extras](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/extra)
-
 ---
 
-## 📅 Day 9 – Scenario Based Questions  
-**Date:** 23-Dec-2025
+# 📅 Week 2: Advanced Core Java Practice
 
-Day 9 focused on solving **scenario-based problems** to apply Core Java concepts in real-world situations. These exercises helped improve logical thinking and problem-solving skills.
+## 📅 Day 1 – Extras  
+**Date:** 22-Dec-2025
 
-### ✅ Concepts Applied
-- Applying Java fundamentals to real-life scenarios  
-- Using conditional statements and loops effectively  
-- Working with arrays, methods, and strings in practical problems  
-- Writing structured and maintainable code  
+Day 1 of Week 2 focused on revising previously learned Java concepts and practicing additional problems to strengthen the overall understanding of Core Java.
+
+### ✅ Concepts Covered
+- Revision of Core Java fundamentals  
+- Additional practice on arrays, methods, and strings  
+- Improving code structure and readability  
+- Debugging and fixing common logical errors  
 
 ### 🧪 Practice Work
-- Solved multiple scenario-based questions  
-- Implemented logic based on given problem statements  
-- Optimized solutions for better readability and performance  
-- Committed and pushed all completed solutions to the repository  
+- Solved extra practice problems from multiple topics  
+- Refactored earlier programs for better clarity  
+- Improved logic and performance of existing code  
+- Committed and pushed all updated solutions to the repository  
 
 ### 🔗 Reference
-👉 [Day 9 – Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/scenario-based-codebase)
-
+👉 [Week 2 – Day 1] (Extras)(https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/core-java-practice/gcr-codebase/extra)
+---
 

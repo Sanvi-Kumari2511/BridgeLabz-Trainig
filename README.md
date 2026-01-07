@@ -434,3 +434,33 @@ Week 4 began with a continued focus on **Sorting Algorithms in Java** along with
 👉 [Sorting Algorithms](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaPractice/src/com/sorting)
 
 👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src)
+
+---
+
+## 📅 Week 4 – Day 2  
+### Linear & Binary Search with Java OOP Scenario Based Practice  
+**Date:** 06-Jan-2026
+
+Day 2 of Week 4 focused on understanding and implementing **Linear Search and Binary Search algorithms** in Java. Along with searching techniques, Object-Oriented Programming concepts were applied through scenario-based practice to improve logical thinking and structured program design.
+
+### ✅ Topics Covered
+- Linear Search and Binary Search algorithms  
+- Use cases and efficiency of searching techniques  
+- Applying classes and objects in program design  
+- Inheritance for hierarchical implementation  
+- Interfaces for defining common behaviors  
+- Encapsulation using access modifiers  
+- Constructors for object initialization  
+- Polymorphism through method overriding  
+
+### 🧪 Practice Summary
+- Implemented search algorithms using Java  
+- Applied OOP principles in scenario-based exercises  
+- Improved code modularity and readability  
+- Followed standard Java coding conventions  
+- Successfully committed and pushed all work to the repository  
+
+### 🔗 Reference
+👉 [Linear and Binary Search](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaPractice/src/com)
+
+👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src)

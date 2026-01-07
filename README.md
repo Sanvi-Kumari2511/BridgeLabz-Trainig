@@ -405,3 +405,32 @@ This session focused on learning **Stack, Queue, HashMap, and Hashing Functions*
 👉 [HashMap and Hashing Function concepts](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaPractice/src/com/hashmapsandhashfunctions)
 
 👉 [Scenario-Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)  
+
+---
+
+## 📅 Week 4 – Day 1  
+### Sorting Algorithms & Java OOP Scenario Based Practice  
+**Date:** 05-Jan-2026
+
+Week 4 began with a continued focus on **Sorting Algorithms in Java** along with applying Object-Oriented Programming concepts through scenario-based practice. The session aimed at improving logical thinking, algorithmic understanding, and clean program design.
+
+### ✅ Topics Covered
+- Implementation of common sorting algorithms  
+- Time and space complexity awareness  
+- Applying OOP concepts in structured programs  
+- Use of inheritance and interfaces  
+- Encapsulation using proper access modifiers  
+- Polymorphism through method overriding  
+- Constructor-based object initialization  
+
+### 🧪 Practice Summary
+- Implemented and tested sorting algorithms  
+- Applied OOP principles in scenario-based programs  
+- Improved modularity and reusability of code  
+- Followed standard Java coding conventions  
+- Submitted all work to the GitHub repository  
+
+### 🔗 Reference
+👉 [Sorting Algorithms](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaPractice/src/com/sorting)
+
+👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src)

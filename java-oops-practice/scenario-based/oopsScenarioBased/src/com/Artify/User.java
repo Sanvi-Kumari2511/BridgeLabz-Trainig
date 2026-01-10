@@ -1,0 +1,23 @@
+package com.Artify;
+
+public class User {
+   private String name;
+   private double walletBalance;
+   
+   User(String name, double walletBalance){
+	   this.name = name;
+	   this.walletBalance = walletBalance;
+   }
+   
+	    public String getName() {
+	        return name;
+	    }
+
+	    public double getWalletBalance() {
+	        return walletBalance;
+	    }
+
+	    public void deductBalance(double amount) {
+	        walletBalance -= amount;  
+	    }
+	}

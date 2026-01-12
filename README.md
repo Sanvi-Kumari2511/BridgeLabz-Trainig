@@ -532,3 +532,24 @@ Focused on applying Java OOP concepts through scenario-based exercises.
 ### 🔗 Reference
 👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)
 
+---
+
+## 📅 Week 4 – Day 6  
+### Data Structures & Scenario Based Practice  
+
+Focused on solving **real-world problems using Data Structures**, with emphasis on efficient logic and clean implementation.
+
+### ✅ Topics Covered
+- Linked Lists (Singly, Doubly, Circular)  
+- Stacks and Queues  
+- HashMaps  
+- Functions and modular programming  
+
+### 🧪 Practice Summary
+- Applied data structures to scenarios  
+- Implemented dynamic operations  
+- Practiced traversal and logic building  
+- Submitted work successfully  
+
+### 🔗 Reference
+👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)

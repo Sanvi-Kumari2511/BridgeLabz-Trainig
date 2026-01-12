@@ -512,3 +512,25 @@ Focused on applying **Java OOP concepts** through scenario-based exercises, emph
 
 ### 🔗 Reference
 👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)
+
+---
+
+## 📅 Week 4 – Day 5  
+### Java OOP & Scenario Based Practice  
+**Date:** 09-Jan-2026
+
+Focused on applying Java OOP concepts through scenario-based exercises.
+
+### ✅ Topics Covered
+- Classes and objects  
+- Interfaces and constructors  
+- Encapsulation and inheritance  
+- Polymorphism and operators  
+
+### 🧪 Practice Summary
+- Applied OOP concepts  
+- Solved scenario-based tasks  
+- Submitted work successfully  
+
+### 🔗 Reference
+👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)

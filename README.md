@@ -486,3 +486,26 @@ This session focused on understanding **Algorithm Runtime Analysis** and evaluat
 👉 [Algorithm Runtime Analysis](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaPractice/src/com/algorithmruntimeanalysis)
 
 👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)
+
+---
+
+## 📅 Week 4 – Day 4  
+### Java OOP & Scenario Based Practice  
+**Date:** 08-Jan-2026
+
+Focused on applying **Java OOP concepts** through scenario-based exercises, emphasizing clean design and logical implementation.
+
+### ✅ Topics Covered
+- Classes and objects  
+- Interfaces and constructors  
+- Encapsulation and inheritance  
+- Polymorphism and operators  
+
+### 🧪 Practice Summary
+- Applied OOP concepts  
+- Solved scenario-based tasks  
+- Maintained clean code  
+- Submitted work successfully  
+
+### 🔗 Reference
+👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)

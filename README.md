@@ -461,3 +461,28 @@ Day 2 of Week 4 focused on understanding and implementing **Linear Search and Bi
 👉 [Linear and Binary Search](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaPractice/src/com)
 
 👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src)
+
+---
+
+## 📅 Week 4 – Day 3  
+### Algorithm Runtime Analysis & Java OOP Scenario Based Practice  
+**Date:** 07-Jan-2026
+
+This session focused on understanding **Algorithm Runtime Analysis** and evaluating program efficiency. Along with performance analysis, Java Object-Oriented Programming concepts were practiced through scenario-based exercises to strengthen problem-solving and design skills.
+
+### ✅ Topics Covered
+- Algorithm runtime analysis  
+- Time and space complexity  
+- Java OOP concepts  
+- Inheritance, encapsulation, and polymorphism  
+
+### 🧪 Practice Summary
+- Analyzed program performance  
+- Implemented Java programs  
+- Applied OOP concepts  
+- Submitted work successfully  
+
+### 🔗 Reference
+👉 [Algorithm Runtime Analysis](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaPractice/src/com/algorithmruntimeanalysis)
+
+👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)

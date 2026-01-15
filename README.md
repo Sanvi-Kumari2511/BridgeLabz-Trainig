@@ -536,6 +536,7 @@ Focused on applying Java OOP concepts through scenario-based exercises.
 
 ## 📅 Week 4 – Day 6  
 ### Data Structures & Scenario Based Practice  
+**Date:** 10-Jan-2026
 
 Focused on solving **real-world problems using Data Structures**, with emphasis on efficient logic and clean implementation.
 
@@ -552,4 +553,5 @@ Focused on solving **real-world problems using Data Structures**, with emphasis 
 - Submitted work successfully  
 
 ### 🔗 Reference
-👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)
+👉 [Scenario Based Questions](Scenario Based Questions)
+

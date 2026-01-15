@@ -558,3 +558,21 @@ Focused on solving **real-world problems using Data Structures**, with emphasis 
 ### 🔗 Reference
 👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)
 
+---
+
+# 📘 Week 5 – Day 1
+## DSA & OOP Scenario-Based Practice
+**Date:** 12-Jan-2026
+
+Practiced **real-world problems** using **Data Structures** and **Java OOP**.
+
+### ✅ Topics
+Queues, Stacks, Linked Lists, HashMaps, Classes, Objects, Encapsulation, Inheritance, Interfaces, Polymorphism  
+
+### 🧪 Practice
+Implemented scenario-based DSA and OOP problems with clean, modular code.  
+
+### 🔗 References
+[DSA Scenario-Based Problems](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)
+
+[Java OOP Scenario-Based Problems](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)

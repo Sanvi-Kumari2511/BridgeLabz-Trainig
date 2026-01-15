@@ -556,5 +556,5 @@ Focused on solving **real-world problems using Data Structures**, with emphasis 
 - Submitted work successfully  
 
 ### 🔗 Reference
-👉 [Scenario Based Questions](Scenario Based Questions)
+👉 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)
 

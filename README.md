@@ -631,3 +631,24 @@ Implemented scenario-based DSA and OOP problems with clean, modular code.
 
 ## References
 - 👉 [Sorting Scenarios](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)
+
+---
+
+# 📅 Week 5 – Day 5
+
+**Date:** Jan 17, 2026  
+
+## Topics Covered
+- Sorting Algorithms: Bubble, Insertion, Merge Sort  
+- OOP Scenario-Based Practice: Classes, Interfaces, Inheritance, Polymorphism  
+- Real-world scenario-based problem solving  
+- Small vs large datasets, dynamic insertions, merging sorted lists, encapsulation, access control  
+
+## Practice Summary
+- Applied sorting to art expo registrations, ice cream flavor popularity, library book lists, and fleet vehicle maintenance  
+- Solved OOP problems like designing hospital systems, library kiosks, event ticket managers, and warehouse robots  
+- Practiced modular code design, real-time updates, inheritance, polymorphism, and efficient data handling  
+
+## References
+- 👉 [Sorting Scenarios](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)  
+- 👉 [OOP Scenario Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)

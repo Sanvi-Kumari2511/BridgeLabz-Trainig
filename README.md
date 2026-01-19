@@ -573,3 +573,22 @@ Implemented scenario-based DSA and OOP problems with clean, modular code.
 [DSA Scenario-Based Problems](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)
 
 [Java OOP Scenario-Based Problems](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)
+
+---
+
+# 📅 Week 5 – Day 2
+
+**Date:** 13-Jan-2026  
+
+## Topics Covered
+- Queue, Stack, Linked List, HashMap  
+- OOP: Classes, Interfaces, Encapsulation, Inheritance  
+
+## Practice Summary
+- Solved advanced DSA scenarios  
+- Applied OOP to real-life problems  
+- Improved code structure and logic clarity  
+
+## References
+- 👉 [DSA Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)  
+- 👉 [Java OOP Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)

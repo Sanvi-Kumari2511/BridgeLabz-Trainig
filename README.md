@@ -613,3 +613,21 @@ Implemented scenario-based DSA and OOP problems with clean, modular code.
 
 ## References
 - 👉 [Sorting Scenarios](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)
+
+---
+
+# 📅 Week 5 – Day 4
+
+**Date:** Jan 16, 2026  
+
+## Topics Covered
+- Insertion, Bubble, Quick Sort  
+- Real-world scenario-based sorting  
+- Small vs large datasets, streaming insertions, fast partitioning  
+
+## Practice Summary
+- Applied sorting to robot shelf loading, cinema showtimes, and drone sensor data  
+- Learned efficiency for small datasets, dynamic insertions, and high-speed sorting  
+
+## References
+- 👉 [Sorting Scenarios](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)

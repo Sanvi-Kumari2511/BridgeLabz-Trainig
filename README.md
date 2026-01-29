@@ -649,3 +649,17 @@ Implemented scenario-based DSA and OOP problems with clean, modular code.
 ## References
 - 👉 [Sorting Scenarios](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)  
 - 👉 [OOP Scenario Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-oops-practice/java-oops-practice/scenario-based/oopsScenarioBased/src/com)
+
+---
+
+## 📅 Week 5 – Day 5  
+**Date:** 19-Jan-2026
+
+Worked on scenario-based questions.  
+Practiced Java Streams concepts.
+
+🔗 **References**  
+👆 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)
+👆 [Java Streams](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/javacollections/javastreams)
+
+

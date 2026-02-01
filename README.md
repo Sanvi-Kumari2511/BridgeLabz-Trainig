@@ -678,3 +678,15 @@ Practiced Java Exception Handling concepts.
 👆 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)  
 👆 [Exception Handling](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/javacollections/exception)
 
+
+---
+
+## 📅 Week 6 – Day 1  
+**Date:** 21-Jan-2026
+
+Worked on scenario-based data structure problems.  
+Submitted Regex & JUnit assignments.
+
+🔗 **References**  
+👆 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)  
+👆 [Regex & JUnit Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com)

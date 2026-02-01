@@ -703,3 +703,14 @@ Worked on scenario-based questions.
 🔗 **References**  
 👆 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)  
 👆 [Annotations & Reflection Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com)
+
+
+---
+
+## 📅 Week 6 – Day 3  
+**Date:** 23-Jan-2026
+
+Worked on scenario-based questions.
+
+🔗 **References**  
+👆 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)

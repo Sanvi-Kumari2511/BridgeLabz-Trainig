@@ -714,3 +714,16 @@ Worked on scenario-based questions.
 
 🔗 **References**  
 👆 [Scenario Based Questions](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-dsa-practice/java-dsa-practice/dsa-scenario-practice/DsaScenarioBased/src/com)
+
+---
+
+## 📅 Week 6 – Day 4  
+**Date:** 24-Jan-2026
+
+Submitted JSON Data tasks.  
+Submitted CSV Data Handling assignments.
+
+🔗 **References**  
+👆 [JSON Data Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/IoStreamPractice/src/com/json)  
+
+👆 [CSV Data Handling Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/IoStreamPractice/src/com/csvdatahandling)

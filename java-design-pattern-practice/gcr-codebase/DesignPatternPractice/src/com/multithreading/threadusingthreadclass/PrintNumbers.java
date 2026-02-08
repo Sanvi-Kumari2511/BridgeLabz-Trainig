@@ -7,7 +7,8 @@ class PrintNumbers extends Thread {
           System.out.println(Thread.currentThread().getName() + ": " + i);
 
           try {
-              Thread.sleep(500); // Pause for 500 milliseconds
+        	  //Pause for 500 milliseconds
+              Thread.sleep(500); 
           } 
           catch (InterruptedException e) {
              System.out.println(e);

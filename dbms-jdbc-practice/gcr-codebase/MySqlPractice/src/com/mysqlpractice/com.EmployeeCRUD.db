@@ -1,0 +1,102 @@
+================ EXERCISE 1: EMPLOYEE MANAGEMENT (CRUD) =================
+
+-- Create Database
+CREATE DATABASE employee_management_db;
+
+-- Use Database
+USE employee_management_db;
+
+-- Create Employees Table
+CREATE TABLE employees (
+    emp_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    department VARCHAR(50),
+    salary DECIMAL(10,2)
+);
+
+-- Verify Active Database
+SELECT DATABASE();
+
+Result:
++------------------------+
+| DATABASE()             |
++------------------------+
+| employee_management_db |
++------------------------+
+
+-- Table Structure
+DESC employees;
+
+Result:
++------------+---------------+------+-----+---------+----------------+
+| Field      | Type          | Null | Key | Default | Extra          |
++------------+---------------+------+-----+---------+----------------+
+| emp_id     | int           | NO   | PRI | NULL    | auto_increment |
+| name       | varchar(100)  | NO   |     | NULL    |                |
+| department | varchar(50)   | YES  |     | NULL    |                |
+| salary     | decimal(10,2) | YES  |     | NULL    |                |
++------------+---------------+------+-----+---------+----------------+
+
+-- Insert Employees
+INSERT INTO employees (name, department, salary)
+VALUES
+('Sanvi Singh', 'AIML', 60000),
+('Sandip Verma', 'CSE', 70000),
+('Shivani Lowanshi', 'IT', 50000);
+
+-- Output After INSERT
+SELECT * FROM employees;
+
+Result:
++--------+------------------+------------+----------+
+| emp_id | name             | department | salary   |
++--------+------------------+------------+----------+
+| 1      | Sanvi Singh      | AIML       | 60000.00 |
+| 2      | Sandip Verma     | CSE        | 70000.00 |
+| 3      | Shivani Lowanshi | IT         | 50000.00 |
++--------+------------------+------------+----------+
+
+-- Update Salary
+UPDATE employees
+SET salary = 80000
+WHERE name = 'Sanvi Singh';
+
+-- Output After UPDATE
+SELECT * FROM employees;
+
+Result:
++--------+------------------+------------+----------+
+| emp_id | name             | department | salary   |
++--------+------------------+------------+----------+
+| 1      | Sanvi Singh      | AIML       | 80000.00 |
+| 2      | Sandip Verma     | CSE        | 70000.00 |
+| 3      | Shivani Lowanshi | IT         | 50000.00 |
++--------+------------------+------------+----------+
+
+-- Delete Employee
+DELETE FROM employees
+WHERE name = 'Shivani Lowanshi';
+
+-- Output After DELETE
+SELECT * FROM employees;
+
+Result:
++--------+--------------+------------+----------+
+| emp_id | name         | department | salary   |
++--------+--------------+------------+----------+
+| 1      | Sanvi Singh  | AIML       | 80000.00 |
+| 2      | Sandip Verma | CSE        | 70000.00 |
++--------+--------------+------------+----------+
+
+-- Search Employee
+SELECT * FROM employees
+WHERE name = 'Sandip Verma';
+
+Result:
++--------+--------------+------------+----------+
+| emp_id | name         | department | salary   |
++--------+--------------+------------+----------+
+| 2      | Sandip Verma | CSE        | 70000.00 |
++--------+--------------+------------+----------+
+
+================ END OF EXERCISE 1 =================

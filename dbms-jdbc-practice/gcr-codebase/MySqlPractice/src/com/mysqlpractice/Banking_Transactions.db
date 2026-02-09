@@ -1,0 +1,76 @@
+================ EXERCISE 2: BANKING TRANSACTION MANAGEMENT =================
+
+-- Use Database
+USE banking_db;
+
+-- Create Accounts Table
+CREATE TABLE accounts (
+    account_id INT AUTO_INCREMENT PRIMARY KEY,
+    holder_name VARCHAR(100),
+    balance DECIMAL(10,2)
+);
+
+-- Create Transaction History Table
+CREATE TABLE transaction_history (
+    txn_id INT AUTO_INCREMENT PRIMARY KEY,
+    from_account INT,
+    to_account INT,
+    amount DECIMAL(10,2),
+    txn_data TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Insert Sample Accounts
+INSERT INTO accounts (holder_name, balance)
+VALUES
+('Sanvi Singh', 1000000),
+('Sandip Verma', 500000);
+
+-- Output After Insert
+SELECT * FROM accounts;
+
+Result:
++------------+--------------+------------+
+| account_id | holder_name  | balance    |
++------------+--------------+------------+
+| 1          | Sanvi Singh  | 1000000.00 |
+| 2          | Sandip Verma |  500000.00 |
++------------+--------------+------------+
+
+-- Transfer Money Using Transaction
+START TRANSACTION;
+
+UPDATE accounts
+SET balance = balance - 20000
+WHERE account_id = 1;
+
+UPDATE accounts
+SET balance = balance + 20000
+WHERE account_id = 2;
+
+INSERT INTO transaction_history (from_account, to_account, amount)
+VALUES (1, 2, 20000);
+
+COMMIT;
+
+-- Output After Transfer (Check balance)
+SELECT * FROM accounts;
+
+Result:
++------------+--------------+-----------+
+| account_id | holder_name  | balance   |
++------------+--------------+-----------+
+| 1          | Sanvi Singh  | 980000.00 |
+| 2          | Sandip Verma | 520000.00 |
++------------+--------------+-----------+
+
+-- Transaction History
+SELECT * FROM transaction_history;
+
+Result:
++--------+--------------+------------+----------+---------------------+
+| txn_id | from_account | to_account | amount   | txn_data            |
++--------+--------------+------------+----------+---------------------+
+| 1      | 1            | 2          | 20000.00 | 2026-02-09 15:52:41 |
++--------+--------------+------------+----------+---------------------+
+
+================ END OF EXERCISE 2 =================

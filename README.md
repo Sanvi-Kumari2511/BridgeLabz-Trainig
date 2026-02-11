@@ -743,3 +743,17 @@ Submitted Functional Interfaces assignments.
 👆 [Lambda Expressions Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/lamdaexpression)  
 
 👆 [Functional Interfaces Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/functionalinterface)
+
+
+---
+
+## 📅 Week 6 – Day 6  
+**Date:** 28-Jan-2026
+
+Submitted Stream API tasks.  
+Submitted Collectors assignments.
+
+🔗 **References**  
+👆 [Stream API Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/streamapi)  
+
+👆 [Collectors Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/collectors)

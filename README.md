@@ -759,3 +759,13 @@ Submitted Design Patterns assignment.
 
 🔗 **References**  
 👆 [Design Patterns Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/designpattern/librarymanagementsystem)
+
+---
+
+## 📅 Week 7 – Day 2  
+**Date:** 02-Feb-2026
+
+Submitted Java Multithreading assignment.
+
+🔗 **References**  
+👆 [Java Multithreading Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/multithreading)

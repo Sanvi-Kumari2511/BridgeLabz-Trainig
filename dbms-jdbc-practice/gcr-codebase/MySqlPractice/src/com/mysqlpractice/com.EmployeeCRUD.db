@@ -1,4 +1,4 @@
-================ EXERCISE 1: EMPLOYEE MANAGEMENT (CRUD) =================
+================  EMPLOYEE MANAGEMENT (CRUD) =================
 
 -- Create Database
 CREATE DATABASE employee_management_db;
@@ -99,4 +99,3 @@ Result:
 | 2      | Sandip Verma | CSE        | 70000.00 |
 +--------+--------------+------------+----------+
 
-================ END OF EXERCISE 1 =================

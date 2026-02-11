@@ -723,3 +723,16 @@ Submitted CSV Data Handling assignments.
 👆 [JSON Data Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/IoStreamPractice/src/com/json)  
 
 👆 [CSV Data Handling Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/IoStreamPractice/src/com/csvdatahandling)
+
+---
+
+## 📅 Week 6 – Day 5  
+**Date:** 27-Jan-2026
+
+Submitted Lambda Expressions tasks.  
+Submitted Functional Interfaces assignments.
+
+🔗 **References**  
+👆 [Lambda Expressions Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/lamdaexpression)  
+
+👆 [Functional Interfaces Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/functionalinterface)

@@ -749,3 +749,13 @@ Submitted Collectors assignments.
 👆 [Stream API Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/streamapi)  
 
 👆 [Collectors Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/collectors)
+
+---
+
+## 📅 Week 7 – Day 1  
+**Date:** 31-Jan-2026
+
+Submitted Design Patterns assignment.
+
+🔗 **References**  
+👆 [Design Patterns Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/designpattern/librarymanagementsystem)

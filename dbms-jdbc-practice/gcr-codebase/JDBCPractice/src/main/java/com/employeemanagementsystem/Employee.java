@@ -8,7 +8,8 @@ public class Employee {
 	private double salary;
 
 	public Employee() {
-	}
+		
+}
 
 	public Employee(int empId, String name, String department, double salary) {
 		this.empId = empId;

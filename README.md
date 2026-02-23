@@ -769,3 +769,17 @@ Submitted Java Multithreading assignment.
 
 🔗 **References**  
 👆 [Java Multithreading Submission](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/multithreading)
+
+
+---
+
+## 📅 Week 7 – Day 3  
+**Date:** 06-Feb-2026
+
+Worked on MySQL concepts and database queries.  
+Practiced JDBC connectivity and operations.
+
+🔗 **References**  
+👆 [MySQL Practice](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/MySqlPractice/src/com/mysqlpractice)
+
+👆 [JDBC Practice](https://github.com/Sanvi-Kumari2511/BridgeLabz-Trainig/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/JDBCPractice/src/main/java/com)

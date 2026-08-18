@@ -1,4 +1,4 @@
-package Day_13_Section3;
+package Day_13_Section3_and_4;
 
 public class Parent_06 {
     static void show(){
